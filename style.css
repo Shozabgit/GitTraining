@@ -1,0 +1,28 @@
+body {
+  background-color: #20345d;
+}
+h1 {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+.img-circle {
+  border-radius: 50%;
+  border: 2px solid white;
+  margin: 4% 37% 1%;
+}
+ol {
+  color: white;
+  font-family: sans-serif;
+  margin: 5%;
+}
+.intro {
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 25px;
+}
+.answers {
+  color: green;
+  font-family: sans-serif;
+}
